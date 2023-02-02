@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**DavidGomes007/DavidGomes007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou aprendendo atualmente ? java e python
+
+- 👯 Procuro colaborar projetos com intuito de estudar
+
+
+- 🤔 Estou procurando ajuda com java
+
+- 💬 Pergunte-me sobre ... tudo sobre hardware
+
+- 📫 Como chegar até mim: ... davidgomesplay0@gmail.com
+
+
+- ⚡ Curiosidade: gosto de tudo que está no ramo das novas tecnologia
