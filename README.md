@@ -1,6 +1,6 @@
-### Olá 👋
+### Olá  sou o David👋
 
-
+Estudante de programaçao 
 
 - 🌱 Estou aprendendo atualmente ? java e python
 
